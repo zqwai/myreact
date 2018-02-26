@@ -12,6 +12,9 @@ class App extends Component{
 				<p>服务器：webpack-dev-server </p>
 				<p>服务器热更新：webpack-dev-server </p>
 				<p>服务器热更新：webpack-dev-server2 </p>
+				<p>css-loader </p>
+				<p>style-loader</p>
+				<p>style-loader</p>
 			</div>
 		);
 	}
